@@ -1,0 +1,6 @@
+{
+    "type": "java",
+    "name": "Simulação Física",
+    "request": "launch",
+    "mainClass": "Simulation"
+}
